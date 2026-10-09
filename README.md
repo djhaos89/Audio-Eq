@@ -226,4 +226,4 @@ Audio EQ is offered as a **full free version** with all features and updates inc
 Take your audio experience to the next level with Audio EQ! Download now and enjoy the full version free of charge!
 
 ---
-**Last updated:** 2026-10-09 17:19:36 UTC
+**Last updated:** 2026-10-09 22:17:24 UTC
